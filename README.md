@@ -1,3 +1,4 @@
+
 # Admin Panel with User Management and Analytics
 
 ## Objective
@@ -196,4 +197,3 @@ Basic authentication using hardcoded credentials.
 
 ## Contact
 Feel free to reach out if you have any questions or suggestions regarding this project! 🎉
->>>>>>> a822aaa2bb5586c94478d3aa483eef81f37d4748
